@@ -1,11 +1,6 @@
 ---
 layout: page
-title: How to Color Grout
+title: Blog
 include_in_header: false
 include_in_footer: false
 ---
-
-
-# Coming soon  
-<br>
-
