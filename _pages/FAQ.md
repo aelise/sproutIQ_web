@@ -14,9 +14,10 @@ Yes, the app can make any color! The color picker tool has an outer ring to choo
 <br>
 
 ### I've found the perfect grout color! Now what? 
-We've got all the info you need to go from grout color inspiration to grouted artwork. Check out our list of blog articles below: 
+We've got all the info you need to go from grout color inspiration to grouted artwork. [Check out our blog for more]({{ '/blog/' | relative_url }}).
 
-* [Grouting basics for mosaic]({{ '/grout/' | relative_url }})
+Some recent topics: 
+* Grouting basics for mosaic
 * How to make custom grout colors (coming soon)
 * Grout colorant reviews (coming soon)
 * How to grout in multiple colors (coming soon)
