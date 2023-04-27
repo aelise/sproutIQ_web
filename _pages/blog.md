@@ -9,6 +9,9 @@ include_in_footer: true
 
 <ul>
   {% for post in site.posts %}
+      {% if post.featured-image %}
+        {% include post-featured-image.html image=post.featured-image alt=post.featured-image-alt %}
+      {% endif %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {{ post.excerpt }}
