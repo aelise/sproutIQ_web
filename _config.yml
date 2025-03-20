@@ -1,30 +1,30 @@
 # SEO content
 
-title : The Groutr App
-tagline: The ultimate grout color simulator for mosaic artists 
-description: Tired of the frustration that comes with choosing the wrong grout color and ruining hours of hard work? This app removes the guesswork. Upload a photo of your mosaic work-in-progress or take one within the app, and watch as the advanced algorithm detects and recolors the grout lines with your desired hue.
-url: https://groutr.app/
+title : SproutIQ Garden Planner
+tagline: Add any plant to your garden layout with SproutIQ!  
+description: Our drag-and-drop garden planner allows you to add unique plant varieties from a photo or url. Why limit yourself to a database, when you can tap into the entire internet?
+url: https://sproutiq.app/
 logo: assets/appicon.png
 
 
 # Page content
 
 #page title
-page_title                                : Groutr                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : SproutIQ                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1671246018                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                : 6741376768                               # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
 
-appstore_link                             : https://apps.apple.com/app/id1671246018                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            : https://play.google.com/store/apps/details?id=app.groutr.groutr_flutter                                          # Enter Google Play Store URL.
+appstore_link                             :                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            :                                          # Enter Google Play Store URL.
 presskit_download_link                    :                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : Groutr                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : SproutIQ Garden Planner                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The ultimate grout color visualizer for artists!
+app_description                           : Scan, Plan, Plant, Grow with SproutIQ Garden Planner! The only garden layout planner that allows you to add custom plants with just a photo of your seed packet or growing guide.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -33,8 +33,8 @@ your_name                                 : Neural Appworks LLC
 your_link                                 :                      
 your_city                                 :                                 
 email_address                             : contact@neuralappworks.com
-facebook_username                         : 100090409277859                                          
-instagram_username                        : groutr_app
+facebook_username                         :                                           
+instagram_username                        : 
 twitter_username                          : 
 github_username                           : 
 youtube_username                          :
@@ -44,29 +44,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : You are my favourite app 🥰
-    description                           : Robyn L.
-    fontawesome_icon_name                 : 
+  - title                                 : Plan
+    description                           : Visually plan your garden with the drag-and-drop interface of the garden layout tool
+    fontawesome_icon_name                 : fa-leaf
 
-  - title                                 : Game changer!
-    description                           : Elaine K.
-    fontawesome_icon_name                 : 
+  - title                                 : Explore
+    description                           : Choose from 200+ varieties or easily add custom plants to your garden using a quick photo, hand-written notes, or any growing guide url
+    fontawesome_icon_name                 : fa-camera
 
-  - title                                 : I just downloaded it and it’s spot on! Thank you!! 
-    description                           : Angela M.
-    fontawesome_icon_name                 : 
-  
-  - title                                 : Love it! Takes the guesswork out of grouting and possibly ruining a good art piece.
-    description                           : Manida M.
-    fontawesome_icon_name                 : 
+  - title                                 : Learn 
+    description                           : Chat with your garden! The chatbot gives tailored advice based on your custom plant list, your local frost dates and much more!
+    fontawesome_icon_name                 : fa-graduation-cap
 
-  - title                                 : Thank goodness for the groutr app. I have made a birdbath for someone whose ideas of what colour grout would be best were very different to mine!! I was able to demonstrate how different colours would look and (finally) we reached a compromise.
-    description                           : Kate S. 
-    fontawesome_icon_name                 : 
+  - title                                 : Grow
+    description                           : Start the right number of seeds, every time! Each garden layout has a plant inventory so you always know how many you’ll need for your space
+    fontawesome_icon_name                 : fa-star
 
-  - title                                 : This app is so helpful in getting to visualize what grout color would best compliment your mosaic. Well done! 👏
-    description                           : Brittany M.
-    fontawesome_icon_name                 : 
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -79,7 +75,7 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/header.png                  # Replace with alternative image path or image URL.
+cover_image                               : assets/header.jpg                 # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.7
 

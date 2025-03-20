@@ -1,9 +1,9 @@
-# Groutr App Homepage
-**The ultimate grout color simulator for artists**
+# SproutIQ Garden Planner App Homepage
+**The best way to plan your garden**
 
 Includes links to the app stores and a video demo. 
 
-https://groutr.app/
+https://sproutIQ.app/
 
 
 
